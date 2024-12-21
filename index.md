@@ -4,3 +4,6 @@ I am leaning to use maronw, right now I am makin cahnge by adding a header
 ```python
 print('Hello world')
 ```
+- [ ] eat chicken
+- [ ] make potatoes
+- [x] sleep
